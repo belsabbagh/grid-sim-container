@@ -10,10 +10,18 @@ The dependencies for the UI are defined in `grid-sim-ui-client/package.json`. Th
 
 ### Running the simulator
 
-To run the simulator, you need to run the following commands:
+To run the simulator, you need to run the following command:
 
 ```bash
 python run.py
+```
+
+## Development
+
+If you don't want to have to build the ui, run the following command:
+
+```bash
+python dev,py
 ```
 
 ## Docker
