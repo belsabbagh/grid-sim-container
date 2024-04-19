@@ -1,0 +1,8 @@
+[submodule "grid-simulator"]
+    path = grid-simulator
+    url = https://github.com/belsabbagh/grid-simulator.git
+
+[submodule "grid-sim-ui-client"]
+    path = grid-sim-ui-client
+    url = https://github.com/belsabbagh/grid-sim-ui-client.git
+
