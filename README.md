@@ -21,7 +21,7 @@ python run.py
 If you don't want to have to build the ui, run the following command:
 
 ```bash
-python dev,py
+python dev.py
 ```
 
 ## Docker
